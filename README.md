@@ -9,4 +9,4 @@ Also, the README is a lie*
 
 2 *The Readme is kind of a lie, the *'s make up for that
 
-3 *By new BASIC i mean BATCH is easyer to get into and more avable that BASIC, making it the new BASIC. 
+3 *By new BASIC i mean BATCH is easyer to get into than BASIC, making it the new BASIC. 
