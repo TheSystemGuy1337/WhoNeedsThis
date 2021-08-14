@@ -1,4 +1,4 @@
-# WhoNeedsThis, the most stupid GitHub repo in existance.
+# WhoNeedsThis, the worlds stupidist and most embarrassing GitHub repo in existance.
 Freaking three liner* with no meaning and no use other to display "Who Needs This"
 
 Created >5 seconds because batch is easy.
