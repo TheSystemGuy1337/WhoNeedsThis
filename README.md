@@ -1,12 +1,8 @@
-# WhoNeedsThis
-Freaking three liner* with no purpse but to display "Who Needs This"
+# WhoNeedsThis, the most stupid GitHub repo in existance.
+Freaking three liner* with no meaning and no use other to display "Who Needs This"
 
-Pertty Stupid if you ask me, as BATCH is the new BASIC*
+Created >5 seconds because batch is easy.
 
-Also, the README is a lie*
+Pertty retarded if you ask me, as BATCH is the new BASIC
 
-*Three liner in Executeable code, spaces are not not counted
-
-2 *The Readme is kind of a lie, the *'s make up for that
-
-3 *By new BASIC i mean BATCH is easyer to get into than BASIC, making it the new BASIC. 
+*Three liner in Executeable code, spaces are not not counted. I swear, one liners from Arnald Schwarzenegger was better than this!
